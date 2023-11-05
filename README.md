@@ -2,9 +2,9 @@
 
 Install, start and enable sysstat on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-sysstat/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-sysstat/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-sysstat/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-sysstat)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/sysstat)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/sysstat)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-sysstat.svg)](https://github.com/buluma/ansible-role-sysstat/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-sysstat.svg)](https://github.com/buluma/ansible-role-sysstat/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-sysstat.svg)](https://github.com/buluma/ansible-role-sysstat/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-sysstat/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-sysstat/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-sysstat/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-sysstat)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/sysstat)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-sysstat.svg)](https://github.com/buluma/ansible-role-sysstat/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-sysstat.svg)](https://github.com/buluma/ansible-role-sysstat/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-sysstat.svg)](https://github.com/buluma/ansible-role-sysstat/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
