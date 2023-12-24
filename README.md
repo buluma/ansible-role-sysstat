@@ -1,10 +1,10 @@
-# [Ansible role sysstat](#sysstat)
+# Ansible role [sysstat](https://galaxy.ansible.com/ui/standalone/roles/buluma/sysstat/documentation)
 
 Install, start and enable sysstat on your system.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-sysstat/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-sysstat/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-sysstat.svg)](https://github.com/buluma/ansible-role-sysstat/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-sysstat.svg)](https://github.com/buluma/ansible-role-sysstat/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-sysstat.svg)](https://github.com/buluma/ansible-role-sysstat/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-sysstat/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-sysstat/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-sysstat.svg)](https://github.com/buluma/ansible-role-sysstat/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-sysstat.svg)](https://github.com/buluma/ansible-role-sysstat/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-sysstat.svg)](https://github.com/buluma/ansible-role-sysstat/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/sysstat)](https://galaxy.ansible.com/ui/standalone/roles/buluma/sysstat/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -85,13 +85,11 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [License](#license)
 
-[Apache-2.0](https://github.com/buluma/ansible-role-sysstat/blob/master/LICENSE).
+[Apache-2.0](https://github.com/buluma/ansible-role-sysstat/blob/master/LICENSE)
 
 ## [Author Information](#author-information)
 
-[buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)
