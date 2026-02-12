@@ -5,4 +5,4 @@
 repository:
   description: Install, start and enable sysstat on your system.
   homepage: https://buluma.github.io/
-  topics: sysstat, ansible, molecule, tox, playbook
+  topics: sysstat, ansible, molecule, playbook
