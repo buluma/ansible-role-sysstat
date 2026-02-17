@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-sysstat/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-sysstat/compare/24.3.31...HEAD)
+
+**Closed issues:**
+
+- Update action [\#4](https://github.com/buluma/ansible-role-sysstat/issues/4)
+- rebuild action [\#3](https://github.com/buluma/ansible-role-sysstat/issues/3)
+
 ## [24.3.31](https://github.com/buluma/ansible-role-sysstat/tree/24.3.31) (2024-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-sysstat/compare/0.3.0...24.3.31)
