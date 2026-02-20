@@ -7,5 +7,4 @@ sysstat_packages:
 _sysstat_service:
   default: sysstat
   Alpine: []
-
 sysstat_service: "{{ _sysstat_service[ansible_os_family] | default(_sysstat_service['default']) }}"
